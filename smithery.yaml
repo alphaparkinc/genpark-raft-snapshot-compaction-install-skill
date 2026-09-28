@@ -1,0 +1,6 @@
+name: genpark-raft-snapshot-compaction-install-skill
+version: 1.0.0
+description: Raft state machine log compaction and incremental chunked InstallSnapshot synchronization
+command: python
+args:
+  - mcp_server.py
